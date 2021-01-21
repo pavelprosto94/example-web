@@ -1,0 +1,15 @@
+{
+    "name": "example-web.yourname",
+    "description": "A short description of your app",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Example Web",
+    "hooks": {
+        "example-web": {
+            "apparmor": "example-web.apparmor",
+            "desktop":  "example-web.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Your FullName <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

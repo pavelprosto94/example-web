@@ -1,6 +1,6 @@
-# Working with Web Content with Python on Ubuntu Touch
-[[статья на русском]](http://dtc1.ru/Работа%20с%20веб%20содержимым%20Python%20на%20Ubuntu%20Touch)
+Working with Web Content with Python on Ubuntu Touch
 
+# Working with Web Content with Python on Ubuntu Touch
 Sometimes an application requires the ability to work with web content. It's like a chat, an RSS parser or a client version of the site. In this example, we'll look at the simplest way to handle a GET request.
 
 **Let's create a new project in Clickable**, enter the command in the terminal:
@@ -91,4 +91,4 @@ Although this file is in JSON format, for some reason the number of spaces is im
 
 We can now compile and run our program.
 
-![ubuntu_toch_20.png](_resources/a3199f435e974f9dad26698d278a04cf.png)
+![ubuntu_toch_20.png](../_resources/a3199f435e974f9dad26698d278a04cf.png)
